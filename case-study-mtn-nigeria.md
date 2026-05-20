@@ -84,4 +84,6 @@ across the MTN Nigeria account.
   resolution of complex issues
 
 ## Tools Used
-In house CRM and Ticketing Tool
+## Tools Used
+In-house CRM System |
+In-house Ticketing Tool |
